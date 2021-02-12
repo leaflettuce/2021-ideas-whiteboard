@@ -1,0 +1,6 @@
+# data files
+/data/*
+*.csv
+*.xlsx
+*.zip
+*.docx
